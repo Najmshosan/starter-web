@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 acting very nice and happyy alhamdulilla
 jklvnfdnkpoiopifvkmfvlklkfdmvpkikmpjkfdnjvjmkl'kmvsdakl;'sd lm,/ mdsalkj:oh
 Sample website with plenty of files for demos
+##Adding many things
